@@ -1,0 +1,15 @@
+# Compiled binaries
+hello
+
+# C++ compiled files
+*.o
+*.obj
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
